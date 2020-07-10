@@ -67,7 +67,7 @@ export SUB_ARCH=arm64;
 
 # G920T
 if [ "$TARGET" = "G920T" ] ; then
-	export KERNEL_CONFIG="custom_defconfig";
+	export KERNEL_CONFIG="zerofltetmo_02_defconfig";
 fi;
 
 # G925T
